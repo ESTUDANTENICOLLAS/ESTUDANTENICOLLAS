@@ -2,7 +2,7 @@
 - 
 - 
 - 
-- 👋 Hi, I’m @ESTUDANTENICOLLAS
+- 👋 Hi, I’m @EstudanteNICOLLAS
 - Meu email de contato e nicollas.eduardo.santos@escola.pr.gov.br
 - estou interessado em aprender a programar
 - 🌱 estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
