@@ -6,8 +6,6 @@
 - Meu email de contato e nicollas.eduardo.santos@escola.pr.gov.br
 - estou interessado em aprender a programar
 - 🌱 estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ESTUDANTENICOLLAS/ESTUDANTENICOLLAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
